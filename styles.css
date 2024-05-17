@@ -1,16 +1,14 @@
-.holder{
-	width:100vw;
-	height:100vh;
+
+.holder {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.item-1{
-	width:100px;
-	height:100px;
-	background-color:red;
-	display:flex;
-	flex-wrap:wrap;
-	flex-direction:row;
-	justify-content:center;
-	align-items:center;
-	margin:50% 50%;
+.item-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
 }
